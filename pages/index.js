@@ -1,7 +1,7 @@
 import React from "react";
 
-import { Canvas } from "_views";
+import { Triangle } from "_views";
 
-const HomePage = () => <Canvas />;
+const HomePage = () => <Triangle />;
 
 export default HomePage;
