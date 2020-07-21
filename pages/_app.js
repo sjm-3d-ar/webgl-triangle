@@ -18,7 +18,7 @@ const MyApp = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Next Starting Point...</title>
+        <title>WebGL Triangle</title>
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
