@@ -1,7 +1,7 @@
 import React from "react";
 
-import { Hello } from "_views";
+import { Canvas } from "_views";
 
-const HomePage = () => <Hello />;
+const HomePage = () => <Canvas />;
 
 export default HomePage;
