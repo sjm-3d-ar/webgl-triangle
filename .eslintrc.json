@@ -53,8 +53,9 @@
   },
   "rules": {
     "semi": "error",
-    "no-console": "off",
     "no-alert": "off",
+    "no-console": "off",
+    "no-bitwise": "off",
     "camelcase": "off",
     "no-multi-spaces": [
       "warn",
